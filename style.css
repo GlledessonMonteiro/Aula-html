@@ -1,0 +1,32 @@
+#cabeçalho {
+    background-color: red;
+    color:white; 
+    padding: 30px
+    
+}
+body {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.destaque {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5; 
+}
+
+
+.texto {
+    color: white;
+    padding: 20px;
+    text-align: left;
+}
